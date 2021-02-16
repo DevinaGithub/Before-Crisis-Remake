@@ -36,7 +36,7 @@ null,
 {"id":34,"expanded":true,"name":"Sector 8 night","order":2,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":35,"expanded":true,"name":"Reactor entrance pt.2","order":9,"parentId":33,"scrollX":819,"scrollY":461},
 {"id":36,"expanded":true,"name":"Underground passage","order":10,"parentId":35,"scrollX":811,"scrollY":835},
-{"id":37,"expanded":true,"name":"Reactor entrance pt.3","order":11,"parentId":36,"scrollX":819,"scrollY":461},
+{"id":37,"expanded":true,"name":"Reactor entrance pt.3","order":11,"parentId":36,"scrollX":728,"scrollY":409.77777777777777},
 {"id":38,"expanded":true,"name":"AVALANCHE headquarters","order":12,"parentId":37,"scrollX":819,"scrollY":461},
 {"id":39,"expanded":true,"name":"Sec 8 ending","order":14,"parentId":38,"scrollX":819,"scrollY":461},
 {"id":40,"expanded":false,"name":"Black BG","order":13,"parentId":38,"scrollX":819,"scrollY":461}
