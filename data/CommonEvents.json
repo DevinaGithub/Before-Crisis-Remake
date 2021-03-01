@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":250,"indent":0,"parameters":[{"name":"MyJob","volume":90,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"CissneiSpecial",1,0,1500,-1000,69,69,255,0]},{"code":232,"indent":0,"parameters":[1,0,1,0,1500,-1000,100,100,255,0,1,true]},{"code":232,"indent":0,"parameters":[1,0,1,0,500,312,100,100,255,0,60,true]},{"code":230,"indent":0,"parameters":[60]},{"code":232,"indent":0,"parameters":[1,0,1,0,0,1000,100,100,255,0,60,true]},{"code":0,"indent":0,"parameters":[]}],"name":"Cissnei Special","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":250,"indent":0,"parameters":[{"name":"MyJob","volume":90,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"CissneiSpecial",1,0,1500,-1000,69,69,255,0]},{"code":232,"indent":0,"parameters":[1,0,1,0,1500,-1000,100,100,255,0,1,true]},{"code":232,"indent":0,"parameters":[1,0,1,0,500,312,100,100,255,0,60,true]},{"code":230,"indent":0,"parameters":[60]},{"code":232,"indent":0,"parameters":[1,0,1,0,-2000,2000,100,100,255,0,60,true]},{"code":0,"indent":0,"parameters":[]}],"name":"Cissnei Special","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"Erase Picture","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
