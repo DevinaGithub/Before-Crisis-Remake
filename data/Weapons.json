@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"animationId":12,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Shuriken","note":"<materia slots>\nSlot 2: 0:0:0\nSlot 3: 0=0:0:0=0\n</materia slots>","params":[0,0,2,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":1,"animationId":12,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Shuriken","note":"<Replace Attack: 11>\n\n<throw object: before>\nimage: picture 'Shuriken'\nspeed: 50\narc: 100\nspin: 12\nstart: -16, -4\n</throw object>","params":[0,0,2,0,0,0,0,0],"price":500,"wtypeId":2},
 {"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
 {"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
 {"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7}
