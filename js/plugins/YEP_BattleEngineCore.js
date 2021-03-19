@@ -1365,7 +1365,6 @@ DataManager.processMELODYNotetags = function(group) {
 
 Yanfly.BEC.DefaultActionSetup = [
     ['CLEAR BATTLE LOG'],
-    ['DISPLAY ACTION'],
     ['IMMORTAL', ['TARGETS', 'TRUE']],
     ['PERFORM START'],
     ['WAIT FOR MOVEMENT'],

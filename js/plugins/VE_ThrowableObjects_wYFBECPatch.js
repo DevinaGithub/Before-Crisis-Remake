@@ -286,7 +286,6 @@ Window_BattleLog.prototype.startAction = function(subject, action, targets) {
 		this.push('waitForMovement');
 		this.push('performAction', subject, action);
 		this.push('showAnimation', subject, targets.clone(), item.animationId);
-		this.displayAction(subject, item);
 	}
 };
 // ----------------------
