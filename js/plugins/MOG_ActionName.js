@@ -1,4 +1,4 @@
-//=============================================================================
+﻿//=============================================================================
 // MOG_ActionName.js
 //=============================================================================
 
@@ -374,9 +374,9 @@ SpriteSkillName.prototype.createIcon = function() {
 SpriteSkillName.prototype.updateVisible = function() {
 	if (this._wait > 0) {this._wait--};
 	if (this.isVisible()) {
-	    this._layout[0].opacity += 20;
+	    this._layout[0].opacity += 200;
 	} else {
-	    this._layout[0].opacity -= 20;
+	    this._layout[0].opacity -= 200;
 	};
 	for (var i = 1; i < this._layout.length; i++) {
 		this._layout[i].opacity = this._layout[0].opacity;
