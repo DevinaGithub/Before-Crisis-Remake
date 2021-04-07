@@ -1,0 +1,7 @@
+-A bunch of VE plugins are at top, because if they're lower, I've seen them causes battle glitches
+-Toggle Targets is needed for All Materia to work
+-The battle select cursor has been modified so it updates faster frames in battle for a smoother glove move
+-CustomEnemySelection disables ugly white flash on enemies
+-BBSFlashOption removes annoying flash while entering battles
+-Rito plugin background and Mog menu background are both needed for working FF7 menus in different directories
+-Olivia Map Name is to remove non-needed area names, values are set to 999 to hide it
