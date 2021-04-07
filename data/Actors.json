@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"%Hero-Cissnei","classId":1,"equips":[1,1,2,5,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Cissnei","nickname":"","note":"<materia slots>\nEquip 1:\nEquip 4:\n</materia slots>","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"%Hero-Cissnei","classId":1,"equips":[1,0,0,5,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Cissnei","nickname":"","note":"<materia slots>\nEquip 1:\nEquip 2:\n</materia slots>\n<Replace Attack: 1>\n<Replace Attack: Attack>","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"%Enemy-Avalanche","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Avalanche","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"ActorReno","characterIndex":0,"characterName":"%Enemy-Reno","classId":3,"equips":[7,95,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Reno","nickname":"","note":"<materia slots>\nEquip 1:\nEquip 2:\n</materia slots>\n<Replace Attack: 106>\n<Replace Attack: Attack >","profile":""}
 ]
