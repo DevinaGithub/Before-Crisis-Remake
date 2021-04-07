@@ -687,7 +687,7 @@ Window_Base.prototype.resetFontSettings = function() {
     Yanfly.Message.Window_Base_resetFontSettings.call(this);
     this.contents.fontBold = false;
     this.contents.fontItalic = false;
-    this.contents.outlineColor = 'rgba(0, 0, 0, 0.5)';
+    this.contents.outlineColor = 'rgba(0, 0, 0, 1)';
     this.contents.outlineWidth = $gameSystem.getMessageFontOutline();
 };
 
