@@ -1,4 +1,4 @@
-//=============================================================================
+﻿//=============================================================================
 // Yanfly Engine Plugins - Battle Engine Extension - Action Sequence Pack 2
 // YEP_X_ActSeqPack2.js
 //=============================================================================
@@ -1225,13 +1225,13 @@ Sprite_Battler.prototype.updateFloat = function() {
 
 Sprite_Battler.prototype.updateStateSprites = function() {
     if (this._stateIconSprite) {
-      var height = this._battler.spriteHeight() * -1;
+      var height = this._battler.spriteHeight() * -0.7;
       height -= Sprite_StateIcon._iconHeight;
       height /= this.scale.y;
       this._stateIconSprite.y = height;
     }
     if (this._stateSprite) {
-      var height = (this._battler.spriteHeight() - 64 * this.scale.y) * -1;
+      var height = (this._battler.spriteHeight() - 64 * this.scale.y) * -0.5;
       this._stateSprite.y = height;
     }
     var heightRate = 0;
